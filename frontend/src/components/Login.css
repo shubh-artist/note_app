@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+.login-form-wrapper{
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    position: absolute;
+    top:0;
+    left: 0;
+    
+}
+.login-form-inner{
+    width:28%;
+    background-color: #fff;
+    padding:70px 50px;
+    position: absolute;
+    margin: 8% 36%;
+    -webkit-box-shadow: 3px 4px 11px -2px rgba(0,0,0,.57);
+    -moz-box-shadow: 3px 4px 11px -2px rgba(0,0,0,.57);
+    box-shadow: 3px 4px 11px -2px rgba(0,0,0,.57);
+    border-radius: 10px;
+}
